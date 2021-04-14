@@ -1,0 +1,4 @@
+﻿  Fractal.cpp
+C:\Users\gabri\source\repos\Fractal\Fractal\Fractal.cpp(10,79): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\gabri\source\repos\Fractal\Fractal\Fractal.cpp(10,54): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  Fractal.vcxproj -> C:\Users\gabri\source\repos\Fractal\Debug\Fractal.exe
